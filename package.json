@@ -8,8 +8,8 @@
     "proplayer919"
   ],
   "description": "React TypeScript library for liquid chrome logo rendering from SVG input.",
-  "main": "dist/index.cjs",
-  "module": "dist/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
